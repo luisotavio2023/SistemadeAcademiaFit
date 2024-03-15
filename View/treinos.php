@@ -10,6 +10,36 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   </head>
   <body>
+  <div class="navbar d-flex flex-start py-0">
+      <img src="./Images/logo1.jpg" width="256" height="128" alt="Logo da academia">
+      </div>
+      <hr>
+      <nav class="navbar navbar-expand-lg navbar-light py-0">
+    <div class="container">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mx-auto">
+                <li class="nav-item mr-">
+                    <a class="nav-link text-dark" href="treinos.php">Treinos</a>
+                </li>
+                <li class="nav-item mr-2">
+                    <a class="nav-link text-dark" href="#">Sobre nós</a>
+                </li>
+                <li class="nav-item mr-2">
+                    <a class="nav-link text-dark" href="#">Serviços</a>
+                </li>
+                <li class="nav-item mr-2">
+                    <a class="nav-link text-dark" href="#">Contato</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
     
       
     <!-- Optional JavaScript -->
