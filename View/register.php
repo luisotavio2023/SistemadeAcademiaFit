@@ -24,7 +24,7 @@
 </head>
 <body>
 <div class="navbar justify-content-center py-0">
-    <img src="./Images/logo1.jpg" width="256" height="128" alt="Logo da academia">
+    <img src="../Images/logo1.jpg" width="256" height="128" alt="Logo da academia">
 </div>
 <hr>
 <div class="container col-6 py-2">
