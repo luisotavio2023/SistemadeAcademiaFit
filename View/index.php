@@ -24,7 +24,7 @@
   </head>
   <body>
       <div class="navbar d-flex flex-start py-0">
-      <img src="./Images/logo1.jpg" width="256" height="128" alt="Logo da academia">
+      <img src="../Images/logo1.jpg" width="256" height="128" alt="Logo da academia">
       </div>
       <hr>
       <nav class="navbar navbar-expand-lg navbar-light py-0">
